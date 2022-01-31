@@ -62,5 +62,3 @@ var a  = window.document.getElementById('bt1')
             a.style.background = 'Black'
             a.style.color = 'yellow'
         }
-
-
