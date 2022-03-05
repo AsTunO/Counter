@@ -25,15 +25,19 @@ footer{
 }
 input{
     border-radius: 15px;
+    
 }
 input#ip2{
     width: 170px;
+    
 }
 input#ip3{
     width: 164px;
+    
 }
 input#bt1{
     background-color: black;
     color: yellow;
     border-radius: 15px;
+    
 }
